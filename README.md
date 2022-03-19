@@ -1,6 +1,8 @@
 Laravel Package
 ---
 
+[![CI](https://github.com/larvatecn/laravel-package/actions/workflows/ci.yml/badge.svg)](https://github.com/larvatecn/laravel-package/actions/workflows/ci.yml)
+
 Laravel package template.
 
 ## Installing
