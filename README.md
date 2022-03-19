@@ -1,7 +1,8 @@
 Laravel Package
 ---
 
-[![CI](https://github.com/larvatecn/laravel-package/actions/workflows/ci.yml/badge.svg)](https://github.com/larvatecn/laravel-package/actions/workflows/ci.yml)
+[![Coding Style](https://github.com/larvatecn/laravel-package/actions/workflows/Linter.yml/badge.svg)](https://github.com/larvatecn/laravel-package/actions/workflows/Linter.yml)
+[![Tester](https://github.com/larvatecn/laravel-package/actions/workflows/Tester.yml/badge.svg)](https://github.com/larvatecn/laravel-package/actions/workflows/Tester.yml)
 
 Laravel package template.
 
