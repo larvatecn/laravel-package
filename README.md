@@ -11,7 +11,7 @@ Laravel Package
 
 Laravel package template.
 
-## Installing
+## 安装
 
 ```shell
 $ composer require larva/laravel-package -vvv
@@ -25,7 +25,7 @@ This step is also optional, if you want to custom the pivot table, you can publi
 $ php artisan vendor:publish --provider="Larva\\LaravelPackage\\PackageServiceProvider" --tag=migrations
 ```
 
-## Usage
+## 使用
 
 TODO
 
